@@ -9,7 +9,7 @@ Follow these steps to install and set up the project: / Siga estas etapas para i
 
 ```bash
 git clone [URL do repositório]
-cd [nome-do-repositório]
+cd https://github.com/CodeJunior-Varlet/tamplete-bot-discord.14.git
 npm install
 ```
 
