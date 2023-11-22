@@ -8,8 +8,8 @@ A brief description of what this project does and who it's for. / Uma breve desc
 Follow these steps to install and set up the project: / Siga estas etapas para instalar e configurar o projeto:
 
 ```bash
-git clone [URL do repositório]
-cd https://github.com/CodeJunior-Varlet/tamplete-bot-discord.14.git
+git clone [[URL do repositório]](https://github.com/CodeJunior-Varlet/tamplete-bot-discord.14.git)
+cd tamplete-bot-discord.14
 npm install
 ```
 
